@@ -1,4 +1,4 @@
-# Lab: 28 - Intro to Django
+# Lab: 28 - Django CRUD
 
 ## Overview
 
